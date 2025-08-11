@@ -1,8 +1,6 @@
 # Flood-Frequency-Analysis-using-Python
 Python-based implementation of flood frequency analysis using statistical probability distributions to estimate return periods and peak discharges.
 
-## Flood Frequency Analysis using Python
-
 This project utilizes Python to implement flood frequency analysis for hydrological data.  
 It estimates the magnitude of extreme flood events corresponding to various return periods, helping in flood risk assessment and hydraulic structure design.
 
@@ -15,7 +13,7 @@ It estimates the magnitude of extreme flood events corresponding to various retu
 
 ### Tools & Libraries
 - Python (NumPy, Pandas, Matplotlib, SciPy)
-- Jupyter Notebook
+- Spyder IDE (Anaconda Distribution)
 
 ### Applications
 - Flood risk mapping
